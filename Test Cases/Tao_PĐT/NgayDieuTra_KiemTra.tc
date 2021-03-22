@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NgayDieuTra_KiemTra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dce8328a-899a-4d81-8f33-0d448d044056</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78f451f0-0b17-42e3-b8e9-c35bb08ba33f</id>
+      <masked>false</masked>
+      <name>Ho</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>951b6882-7223-4b59-81ac-af26d4cc956c</id>
+      <masked>false</masked>
+      <name>Ten</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6de0dc29-8803-4728-be97-a12015baa0d6</id>
+      <masked>false</masked>
+      <name>NgaySinh</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a46d46e6-effc-4050-89b2-a7402861f260</id>
+      <masked>false</masked>
+      <name>SoPhieu</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6dc0d42f-0ef0-4a1b-91cc-11e9a73203fc</id>
+      <masked>false</masked>
+      <name>NgayDieuTra</name>
+   </variable>
+</TestCaseEntity>

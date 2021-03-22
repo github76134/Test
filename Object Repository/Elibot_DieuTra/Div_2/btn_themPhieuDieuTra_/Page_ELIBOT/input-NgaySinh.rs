@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input-NgaySinh</name>
+   <tag></tag>
+   <elementGuidId>a3b4f8fc-c11e-4309-845a-d273ef293ae3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[33]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-datepicker__input-container > input[type=&quot;text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Chọn ngày</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui large modal transition visible active&quot;]/div[@class=&quot;scrolling content&quot;]/form[@class=&quot;ui form&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;required field&quot;]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[33]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

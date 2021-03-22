@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dang_nhap_Pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2ad634b-4039-4a8f-84bf-e05cc6657844</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b302f696-71b5-41df-9685-e8c44cbd180e</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22c686c1-d4eb-4139-ae09-42d05d36d015</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

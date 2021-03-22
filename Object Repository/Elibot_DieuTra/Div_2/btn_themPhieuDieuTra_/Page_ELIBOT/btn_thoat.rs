@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_thoat</name>
+   <tag></tag>
+   <elementGuidId>93e51f30-fe2c-4613-b153-7c1ca83136e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.red.close.large.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui large modal transition visible active&quot;]/i[@class=&quot;red close large icon&quot;][count(. | //i[@aria-hidden = 'true' and @class = 'red close large icon']) = count(//i[@aria-hidden = 'true' and @class = 'red close large icon'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>red close large icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui large modal transition visible active&quot;]/i[@class=&quot;red close large icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/i</value>
+   </webElementXpaths>
+</WebElementEntity>

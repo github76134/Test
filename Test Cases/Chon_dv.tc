@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Chon_dv</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e80d0f1d-ddc8-456f-9906-825aef0721d1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c51ef89-a46b-4625-b4bd-2461fe7d4fb1</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a8e80cf-d945-4fe9-ad06-5d238cc195d6</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

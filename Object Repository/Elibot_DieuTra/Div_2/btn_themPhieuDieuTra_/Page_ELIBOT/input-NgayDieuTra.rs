@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input-NgayDieuTra</name>
+   <tag></tag>
+   <elementGuidId>bd1b098e-c858-4a7b-b1d6-9697bd0bac22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui large modal transition visible active&quot;]/div[@class=&quot;scrolling content&quot;]/form[@class=&quot;ui form&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;field&quot;]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[1][count(. | //input[@type = 'text' and @placeholder = 'Chọn ngày']) = count(//input[@type = 'text' and @placeholder = 'Chọn ngày'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[44]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Chọn ngày</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui large modal transition visible active&quot;]/div[@class=&quot;scrolling content&quot;]/form[@class=&quot;ui form&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;field&quot;]/div[@class=&quot;react-datepicker-wrapper&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[44]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

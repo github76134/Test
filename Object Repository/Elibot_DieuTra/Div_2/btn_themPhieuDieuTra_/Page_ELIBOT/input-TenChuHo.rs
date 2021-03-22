@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input-TenChuHo</name>
+   <tag></tag>
+   <elementGuidId>5d3a5ddc-37ef-4bb8-a292-c5f168cce51f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>html[@class=&quot;hydrated&quot;]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui large modal transition visible active&quot;]/div[@class=&quot;scrolling content&quot;]/form[@class=&quot;ui form&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;required field&quot;]/div[@class=&quot;ui input&quot;]/input[1][count(. | //input[@placeholder = 'Tên' and @type = 'text']) = count(//input[@placeholder = 'Tên' and @type = 'text'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[32]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tên</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>html[@class=&quot;hydrated&quot;]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui large modal transition visible active&quot;]/div[@class=&quot;scrolling content&quot;]/form[@class=&quot;ui form&quot;]/div[@class=&quot;fields&quot;]/div[@class=&quot;required field&quot;]/div[@class=&quot;ui input&quot;]/input[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[32]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/form/div/div[2]/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

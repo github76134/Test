@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tra cứu dữ liệu khi vào giao diện điều tra.</description>
+   <name>tracu_dieutra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5484da6d-116b-4944-8496-f61af377e8cd</testCaseGuid>
+</TestCaseEntity>
