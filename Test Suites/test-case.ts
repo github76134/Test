@@ -44,49 +44,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/tracu_dieutra</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>bb2d83d1-cafa-4a55-9305-619d8072ccb2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Tao_PĐT/NgayDieuTra_KiemTra</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>e58f7d10-979b-4474-b2cf-fd4a5b4d272d</id>
-         <iterationEntity>
-            <iterationType>RANGE</iterationType>
-            <value>1-6</value>
-         </iterationEntity>
-         <testDataId>Data Files/PĐT</testDataId>
-      </testDataLink>
-      <variableLink>
-         <testDataLinkId>e58f7d10-979b-4474-b2cf-fd4a5b4d272d</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Họ </value>
-         <variableId>78f451f0-0b17-42e3-b8e9-c35bb08ba33f</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>e58f7d10-979b-4474-b2cf-fd4a5b4d272d</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Tên</value>
-         <variableId>951b6882-7223-4b59-81ac-af26d4cc956c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>e58f7d10-979b-4474-b2cf-fd4a5b4d272d</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Ngày Sinh</value>
-         <variableId>6de0dc29-8803-4728-be97-a12015baa0d6</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>e58f7d10-979b-4474-b2cf-fd4a5b4d272d</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Số Phiếu</value>
-         <variableId>a46d46e6-effc-4050-89b2-a7402861f260</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>e58f7d10-979b-4474-b2cf-fd4a5b4d272d</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Ngày Điều Tra</value>
-         <variableId>6dc0d42f-0ef0-4a1b-91cc-11e9a73203fc</variableId>
-      </variableLink>
-   </testCaseLink>
 </TestSuiteEntity>
