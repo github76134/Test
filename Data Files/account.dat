@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>1b1aec42-3eb1-4d83-acce-7b4cc842f251</dataFileGUID>
-   <dataSourceUrl>C:\Users\LeHieu\Desktop\account.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\LeHieu\Google Drive\Xbot-drive\Katalon\file\account.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <properties>

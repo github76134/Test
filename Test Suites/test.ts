@@ -83,9 +83,9 @@
          <variableId>a46d46e6-effc-4050-89b2-a7402861f260</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>6b328c3b-a8da-4226-837e-8cd09a6d1ab0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ngày Điều Tra</value>
          <variableId>6dc0d42f-0ef0-4a1b-91cc-11e9a73203fc</variableId>
       </variableLink>
    </testCaseLink>
