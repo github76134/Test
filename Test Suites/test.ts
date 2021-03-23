@@ -54,7 +54,7 @@
          <id>6b328c3b-a8da-4226-837e-8cd09a6d1ab0</id>
          <iterationEntity>
             <iterationType>RANGE</iterationType>
-            <value>3-5</value>
+            <value>1-5</value>
          </iterationEntity>
          <testDataId>Data Files/PĐT</testDataId>
       </testDataLink>
