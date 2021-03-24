@@ -6,18 +6,22 @@
    <elementGuidId>0d29d762-75e3-4ed4-bd67-752ae174fe9e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#identifierId</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='identifierId']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;identifierId&quot;)[count(. | //input[@type = 'email' and @class = 'whsOnd zHQkBf' and @jsname = 'YPqjbf' and @autocomplete = 'username' and @spellcheck = 'false' and @tabindex = '0' and @aria-label = 'Email hoặc số điện thoại' and @name = 'identifier' and @autocapitalize = 'none' and @id = 'identifierId' and @dir = 'ltr' and @data-initial-dir = 'ltr']) = count(//input[@type = 'email' and @class = 'whsOnd zHQkBf' and @jsname = 'YPqjbf' and @autocomplete = 'username' and @spellcheck = 'false' and @tabindex = '0' and @aria-label = 'Email hoặc số điện thoại' and @name = 'identifier' and @autocapitalize = 'none' and @id = 'identifierId' and @dir = 'ltr' and @data-initial-dir = 'ltr'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#identifierId</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -31,42 +35,42 @@
       <value>email</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>whsOnd zHQkBf</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>jsname</name>
       <type>Main</type>
       <value>YPqjbf</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
       <value>username</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
@@ -80,7 +84,7 @@
       <value>identifier</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocapitalize</name>
       <type>Main</type>
@@ -94,21 +98,21 @@
       <value>identifierId</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-initial-dir</name>
       <type>Main</type>
       <value>ltr</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>

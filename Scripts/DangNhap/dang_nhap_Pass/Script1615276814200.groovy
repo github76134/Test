@@ -32,6 +32,8 @@ WebUI.click(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail'))
 'Chuyển sang cửa sổ có tiêu đề'
 WebUI.switchToWindowTitle('Đăng nhập - Tài khoản Google')
 
+WebUI.delay(5)
+
 'Nhập tài khoản Gmail'
 WebUI.setText(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/input_username'), user)
 
@@ -45,7 +47,6 @@ WebUI.delay(2)
 WebUI.setText(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/input_Password'), pass)
 
 //asb
-
 'Chọn vào nút tiếp tục'
 WebUI.click(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/div_Tiep theo_2'))
 

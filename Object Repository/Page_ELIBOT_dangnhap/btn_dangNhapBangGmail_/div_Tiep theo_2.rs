@@ -6,25 +6,29 @@
    <elementGuidId>4485a6ab-1a03-4b04-8e65-e689ec12556c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.VfPpkd-RLmnJb</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='passwordNext']/div/button/div[2]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;passwordNext&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc qIypjc TrZEUc lw1w4b&quot;]/div[@class=&quot;VfPpkd-RLmnJb&quot;][count(. | //div[@class = 'VfPpkd-RLmnJb']) = count(//div[@class = 'VfPpkd-RLmnJb'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.VfPpkd-RLmnJb</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
