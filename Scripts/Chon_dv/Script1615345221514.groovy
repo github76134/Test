@@ -26,7 +26,7 @@ WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 WebUI.setText(findTestObject('Chon_Loai_DV/input_Tnh_search'), 'Long An')
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
-
+//
 WebUI.setText(findTestObject('Chon_Loai_DV/input_QunHuyn_search'), 'Đức Hòa')
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
