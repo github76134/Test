@@ -1,3 +1,4 @@
+import org.openqa.selenium.WebDriver as WebDriver
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -23,20 +24,18 @@ WebUI.openBrowser('')
 'truy cập vào đường dẫn\r\n\r\n'
 WebUI.navigateToUrl('https://elibot.esoft.edu.vn')
 
-'Mở full cửa sổ trình duyệt'
-WebUI.maximizeWindow()
-
 'Chọn vào nút đăng nhập bằng mail'
 WebUI.click(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail'))
 
+//WebUI.switchToWindowIndex(0)
 'Chuyển sang cửa sổ có tiêu đề'
 WebUI.switchToWindowTitle('Đăng nhập - Tài khoản Google')
 
-WebUI.delay(5)
-
+//WebUI.delay(5)
 'Nhập tài khoản Gmail'
-WebUI.setText(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/input_username'), user)
+WebUI.setText(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/input_username'), 'kiemthu543@gmail.com')
 
+//WebUI.setText(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/input_username'), 'Test')
 'Chọn vào nút tiếp tục'
 WebUI.click(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/div_Tiep theo_1'))
 
@@ -44,7 +43,7 @@ WebUI.click(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/div_Tiep
 WebUI.delay(2)
 
 'Nhập mật khẩu'
-WebUI.setText(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/input_Password'), pass)
+WebUI.setText(findTestObject('Page_ELIBOT_dangnhap/btn_dangNhapBangGmail_/input_Password'), 'Kiemthu@')
 
 //asb
 'Chọn vào nút tiếp tục'
